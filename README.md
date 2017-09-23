@@ -3,4 +3,4 @@
 First install Python 2.7
 
 Then:
-'''pip install pyodbc'''
+```pip install pyodbc```
